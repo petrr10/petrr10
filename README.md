@@ -1,6 +1,8 @@
 ### Hi there im Peter 👋
 I come from the Czech Republic
+
 📫 If you want to reach me drop a message at: github@petus.tk
+
 🌱 I’m currently learning Python
 
 <!--
