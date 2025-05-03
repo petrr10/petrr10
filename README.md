@@ -1,9 +1,9 @@
 ### Hi there im Peter 👋
-I come from the Czech Republic
+I live in the Czech Republic
 
-📫 If you want to reach me drop a message at: github@petus.tk
+📫 If you want to reach me drop a message at: github@petus.tk (dead)
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python and C++
 
 <!--
 **petrr10/petrr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
