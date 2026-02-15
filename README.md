@@ -1,7 +1,6 @@
 ### Hi there im Peter 👋
 I live in the Czech Republic
 
-📫 If you want to reach me drop a message at: github@petus.tk (dead)
 
 🌱 I’m currently learning Python and C++
 
